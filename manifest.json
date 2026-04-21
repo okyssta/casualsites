@@ -1,0 +1,17 @@
+{
+  "name": "CasualSites",
+  "version": "1.1.0",
+  "description": "A premium website design skill for coding agents focused on cinematic motion, smooth scroll storytelling, progression-based scene changes, and non-generic handcrafted layouts.",
+  "entry": "SKILL.md",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "templates/master-prompt.md",
+    "templates/site-blueprint.md",
+    "templates/growth-scroll-brief.md",
+    "examples/animation-patterns.md",
+    "examples/anti-generic-checklist.md",
+    "examples/trigger-queries.md",
+    "references/style-dna.md"
+  ]
+}
