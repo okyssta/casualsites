@@ -3,7 +3,7 @@
 CasualSites is a website-design skill for coding agents that pushes premium, scroll-led, high-art-direction web experiences instead of generic AI-generated landing pages.
 
 **Author:** Kyssta  
-**GitHub:** https://github.com/kyssta-exe/
+**GitHub:** https://github.com/okyssta/
 
 ## Trigger
 
